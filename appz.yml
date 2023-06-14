@@ -26,5 +26,3 @@ properties:
     IIS_DEFAULT_PAGE: 'iisstart.aspx'
     PASSWORD: 
       vault: WINDOWSPASSWORD
-
-    
